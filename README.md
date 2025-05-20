@@ -26,5 +26,5 @@ A simple React-based Print-On-Demand (POD) customization app that allows users t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/custom-pod-store.git
+git clone https://github.com/Gadwalaswetha/T-Shirt
 cd T-Shirt
